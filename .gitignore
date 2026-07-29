@@ -1,0 +1,14 @@
+# L0-L4 默认存放私人记录，不进入公开仓库的 Git 历史。
+L0/**
+L1/**
+L2/**
+L3/**
+L4/**
+
+!L0/.gitkeep
+!L1/.gitkeep
+!L2/.gitkeep
+!L3/.gitkeep
+!L4/.gitkeep
+
+.DS_Store
